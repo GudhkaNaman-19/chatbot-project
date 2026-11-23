@@ -2,15 +2,19 @@
 
 A simple and interactive chatbot application built using React and Vite. This project demonstrates React fundamentals, reusable components, state management, and handling asynchronous chatbot responses.
 
+## 🌐 Live Demo
+
+**Try the chatbot here:** [Chatbot Project](https://gudhka-naman-19.github.io/chatbot-project/)
+
 ## 📸 Project Screenshots
-
-### Chatbot Conversation
-
-![Chatbot Conversation](screenshots/chatbot-conversation.png)
 
 ### Chatbot Home Screen
 
 ![Chatbot Home Screen](screenshots/chatbot-home.png)
+
+### Chatbot Conversation
+
+![Chatbot Conversation](screenshots/chatbot-conversation.png)
 
 ## ✨ Features
 
